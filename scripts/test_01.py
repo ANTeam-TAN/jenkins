@@ -7,4 +7,4 @@ class Test01:
         assert 1
 
     def test_003(self):
-        assert 1
+        assert 0
